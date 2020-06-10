@@ -1,3 +1,28 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 905612,
+      "firstName": "Emely",
+      "lastName": "MacGyver",
+      "email": "Leon89@hotmail.com"
+    },
+    {
+      "id": 19101236,
+      "firstName": "Emory",
+      "lastName": "Mitchell",
+      "email": "Jerod72@yahoo.com"
+    },
+    {
+      "id": 28932834,
+      "firstName": "Troy",
+      "lastName": "Koss",
+      "email": "Arlie_Langworth45@gmail.com"
+    },
+    {
+      "id": 31703825,
+      "firstName": "Aracely",
+      "lastName": "Monahan",
+      "email": "Marie21@hotmail.com"
+    }
+  ]
 }
